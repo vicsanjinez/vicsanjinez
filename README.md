@@ -1,4 +1,4 @@
-- 👋 Hello, 
+- #👋 Hello, 
 - My name is Victor Sanjinez, I'm from Bolivia and I'm an Cyber Security Engineer
 
 - I have a Master Degree in Cyber Security, CEH Practical certification, Burp Suite Certified Practitioner (in progress)
@@ -7,7 +7,7 @@
 - I have a YouTube channel (in Spanish) about Cyber Security
 - I offer consulting hours (send me an email vicsanjinez@gmail.com)
 
-- Skills
+- #**Skills**
 - Software Development, Web with PHP(Yii2), Android with Android Studio (Java, Kotlin), iOS with Xcode (Swift) since 2010
 - Cyber Security Pentesting, Vulnerability Assessment, BlueTeam, SIEM implementation and monitoring, all the cloud stuff :)
 - Critical thinking, decision-making and problem solving skills
